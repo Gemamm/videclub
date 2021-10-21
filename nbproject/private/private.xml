@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videclub/datos/IAccesoDatos.java</file>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videclub/datos/AccesoDatos.java</file>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videoclub/negocio/CatalogoPeliculas.java</file>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videoclub/negocio/ICatalogoPeliculas.java</file>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videoclub/excepciones/ExEscritura.java</file>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videoclub/excepciones/EXLectura.java</file>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videoclub/dominio/Pelicula.java</file>
+            <file>file:/E:/DAM/GitHub/videclub/src/com/ceep/videoclub/excepciones/AccesoDatosExcepciones.java</file>
+        </group>
+    </open-files>
+</project-private>
